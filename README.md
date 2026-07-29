@@ -1,4 +1,5 @@
 # vdiskchain
+Rebuild vdiskchain with Ventoy 1.1.17 payload
 For Ventoy Linux vDisk, please refer: [https://www.ventoy.net/en/plugin_vtoyboot.html](https://www.ventoy.net/en/plugin_vtoyboot.html)
 
 This project is used to chainload Ventoy Linux vDisk file from other bootloaders(e.g. grub4dos/grub2/rEFInd/...)
